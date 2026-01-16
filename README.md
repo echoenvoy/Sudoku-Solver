@@ -63,17 +63,7 @@ Input Layer → Validation Layer → Solving Layer → Output Layer
 - **Observer Pattern**: Progress tracking
 - **Factory Pattern**: Input method selection
 
-## 📁 **Project Structure**
-```
-sudoku-solver/
-├── sudoku_solver.py          # Main application
-├── README.md                 # Documentation
-├── test_puzzles/             # Sample puzzles
-│   ├── easy.txt
-│   ├── medium.txt
-│   └── hard.txt
-├── docs/                     # Documentation
-└── examples/                 # Usage examples
+
 ```
 
 ## 🌟 **Key Achievements**
