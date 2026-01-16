@@ -64,7 +64,7 @@ Input Layer → Validation Layer → Solving Layer → Output Layer
 - **Factory Pattern**: Input method selection
 
 
-```
+
 
 ## 🌟 **Key Achievements**
 1. **Algorithmic Excellence**: MRV heuristic implementation with significant performance gains
